@@ -12,3 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## info
 
 1) This project is not focus on form validation
+2) Project is not for production Build
